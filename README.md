@@ -29,8 +29,8 @@ whoami:
   philosophy: "Build. Learn. Contribute. Repeat."
 ```
 
-- 💻 Software Engineering Intern @ **PrepGrind**
-- 🌐 Web Development Intern @ **Moka Agro Science**
+- 💻 Software Engineering Intern @ **Prepgrind**
+- 🌐 Web Development Intern @ **MokaAgro Science**
 - 🏆 Winner — **Aurora Hackathon 2026**
 - 🚀 Passionate about scalable, real-world software
 - 🌱 Strong believer in learning by *building*
@@ -103,8 +103,8 @@ whoami:
 |---|---|
 | 🥇 Hackathon Winner | Aurora Hackathon 2026 |
 | 🥈 Runner-up | PBL Project Competition 2025 |
-| 💼 Internship | Software Engineering Intern @ PrepGrind |
-| 🌐 Internship | Web Development Intern @ Moka Agro Science |
+| 💼 Internship | Software Engineering Intern @ Prepgrind |
+| 🌐 Internship | Web Development Intern @ MokaAgro Science |
 | 🤝 Open Source | Active contributor across multiple repositories |
 
 <br>
