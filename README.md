@@ -6,7 +6,7 @@
 
 *Turning ideas into code, bugs into lessons, and curiosity into shipped products.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharayu_Wadghule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharayu_Wadghule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharayuwadghule/)
 [![GitHub](https://img.shields.io/badge/GitHub-sharayuwadghule-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharayuwadghule)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharayuwadghule9@gmail.com)
 
@@ -20,7 +20,6 @@
 whoami:
   name: Sharayu Wadghule
   education: B.E. Computer Engineering
-  location: India 🇮🇳
   focus:
     - Building full-stack, production-ready applications
     - Exploring AI & cloud-native technologies
