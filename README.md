@@ -106,7 +106,7 @@ I'm a Computer Engineering graduate with hands-on experience building full-stack
 <tr>
 <td>🛠️ <b>UtilX</b></td>
 <td>Privacy-first utility platform — now with a full PDF toolkit on its docs subdomain.</td>
-<td><a href="https://docs.utilx.app">docs.utilx.app</a></td>
+<td><a href="https://utilx.app">docs.utilx.app</a></td>
 </tr>
 <tr>
 <td>📊 <b>Rollup</b></td>
