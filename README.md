@@ -1,102 +1,153 @@
-# 👋 Hi, I'm Sharayu Wadghule
+<div align="center">
 
-### Computer Engineering Student • Full-Stack Developer • Open Source Contributor • AI Enthusiast
+# Hi, I'm Sharayu Wadghule 👋
 
-> Building software, contributing to open source, and continuously learning through real-world projects.
+### `Computer Engineer` × `Full-Stack Developer` × `Open Source Contributor` × `AI Enthusiast`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharayu_Wadghule-0A66C2?style=flat&logo=linkedin)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-sharayuwadghule-black?style=flat&logo=github)](https://github.com/sharayuwadghule)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:sharayuwadghule9@gmail.com)
+*Turning ideas into code, bugs into lessons, and curiosity into shipped products.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharayu_Wadghule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-sharayuwadghule-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharayuwadghule)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharayuwadghule9@gmail.com)
 
-## 🚀 About Me
+</div>
+
+<br>
+
+## 🧭 About Me
 
 ```yaml
-Name: Sharayu Wadghule
-Education: B.E. Computer Engineering
-CGPA: 8.9
-Location: India 🇮🇳
-
-Currently:
-  - Building full-stack applications
-  - Exploring AI & cloud technologies
-  - Contributing to open source
-  - Learning system design
+whoami:
+  name: Sharayu Wadghule
+  education: B.E. Computer Engineering (CGPA 8.9)
+  location: India 🇮🇳
+  focus:
+    - Building full-stack, production-ready applications
+    - Exploring AI & cloud-native technologies
+    - Contributing to open source, one PR at a time
+    - Leveling up in system design
+  philosophy: "Build. Learn. Contribute. Repeat."
 ```
 
-- 💻 Software Engineering Intern at PrepGrind
-- 🌐 Web Development Intern at Moka Agro Science
-- 🏆 Winner at Aurora Hackathon 2026
-- 🚀 Passionate about building scalable applications
-- 🌱 Strong believer in learning by building
+- 💻 Software Engineering Intern @ **PrepGrind**
+- 🌐 Web Development Intern @ **Moka Agro Science**
+- 🏆 Winner — **Aurora Hackathon 2026**
+- 🚀 Passionate about scalable, real-world software
+- 🌱 Strong believer in learning by *building*
 
----
+<br>
 
-## 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Full Stack
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+**Languages**
 
-### Mobile & Database
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)
-![React Native](https://img.shields.io/badge/React_Native-black?style=flat&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis)
-![Supabase](https://img.shields.io/badge/Supabase-green?style=flat&logo=supabase)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
+**Full Stack**
 
-## 📊 GitHub Stats
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharayuwadghule&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharayuwadghule&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharayuwadghule&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharayuwadghule&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🔥 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharayuwadghule&theme=tokyo-night)](https://github.com/sharayuwadghule)
-
----
-
-## ⚡ GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharayuwadghule&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharayuwadghule&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharayuwadghule&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<br>
 
 ## 🏆 Highlights
 
-- 🥇 Winner — Aurora Hackathon 2026
-- 🥈 Runner-up — PBL Project Competition 2025
-- 💼 Software Engineering Intern @ PrepGrind
-- 🌐 Web Development Intern @ Moka Agro Science
-- 🤝 Active Open Source Contributor
+| 🏅 Achievement | Detail |
+|---|---|
+| 🥇 Hackathon Winner | Aurora Hackathon 2026 |
+| 🥈 Runner-up | PBL Project Competition 2025 |
+| 💼 Internship | Software Engineering Intern @ PrepGrind |
+| 🌐 Internship | Web Development Intern @ Moka Agro Science |
+| 🤝 Open Source | Active contributor across multiple repositories |
 
----
+<br>
 
 ## 🚀 Featured Work
 
-- 🛠️ UtilX — Privacy-first utility platform
-- 🚗 CampusRide — Student ride-sharing platform
-- 🤱 Project Janani — AI-powered healthcare platform
+<table>
+<tr>
+<td width="25%" valign="top">
 
----
+**🛠️ UtilX**
+Privacy-first utility platform, with a dedicated PDF toolkit at [docs.utilx.app](https://docs.utilx.app).
 
-> **"Build. Learn. Contribute. Repeat."**
+</td>
+<td width="25%" valign="top">
+
+**📊 Rollup**
+The operating system for creator sponsorship revenue — Sponsor CRM, payment tracking & deal pipeline in one workspace.
+
+</td>
+<td width="25%" valign="top">
+
+**🚗 CampusRide**
+A student-focused ride-sharing platform making campus commutes smarter and safer.
+
+</td>
+<td width="25%" valign="top">
+
+**🤱 Project Janani**
+AI-powered healthcare platform aimed at improving maternal health outcomes.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Great
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharayuwadghule9@gmail.com)
+
+> *"Build. Learn. Contribute. Repeat."*
+
+</div>
