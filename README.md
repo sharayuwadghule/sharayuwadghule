@@ -17,22 +17,12 @@
 ## 🧭 About Me
 
 ```yaml
-whoami:
-  name: Sharayu Wadghule
-  education: B.E. Computer Engineering
-  focus:
-    - Building full-stack, production-ready applications
-    - Exploring AI & cloud-native technologies
-    - Contributing to open source, one PR at a time
-    - Leveling up in system design
-  philosophy: "Build. Learn. Contribute. Repeat."
+sharayu.dev:
+  builds: full-stack apps, AI experiments, open source
+  currently: 💻 SWE Intern @ Prepgrind  🌐 Web Dev Intern @ MokaAgro
+  proudest_moment: 🏆 Winner, Aurora Hackathon 2026
+  motto: "Build. Learn. Contribute. Repeat."
 ```
-
-- 💻 Software Engineering Intern @ **Prepgrind**
-- 🌐 Web Development Intern @ **MokaAgro Science**
-- 🏆 Winner — **Aurora Hackathon 2026**
-- 🚀 Passionate about scalable, real-world software
-- 🌱 Strong believer in learning by *building*
 
 <br>
 
@@ -85,10 +75,6 @@ whoami:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharayuwadghule&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=sharayuwadghule&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%"/>
-</p>
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -102,8 +88,8 @@ whoami:
 |---|---|
 | 🥇 Hackathon Winner | Aurora Hackathon 2026 |
 | 🥈 Runner-up | PBL Project Competition 2025 |
-| 💼 Internship | Software Engineering Intern @ Prepgrind |
-| 🌐 Internship | Web Development Intern @ MokaAgro Science |
+| 💼 Internship | Software Engineering Intern @ PrepGrind |
+| 🌐 Internship | Web Development Intern @ Moka Agro Science |
 | 🤝 Open Source | Active contributor across multiple repositories |
 
 <br>
@@ -146,7 +132,7 @@ whoami:
 
 ### 💬 Let's Connect & Build Something Great
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharayuwadghule/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharayuwadghule9@gmail.com)
 
 > *"Build. Learn. Contribute. Repeat."*
