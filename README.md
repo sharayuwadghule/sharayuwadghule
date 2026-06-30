@@ -19,7 +19,7 @@
 ```yaml
 whoami:
   name: Sharayu Wadghule
-  education: B.E. Computer Engineering (CGPA 8.9)
+  education: B.E. Computer Engineering
   location: India 🇮🇳
   focus:
     - Building full-stack, production-ready applications
@@ -79,20 +79,21 @@ whoami:
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Pulse
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharayuwadghule&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharayuwadghule&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharayuwadghule&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharayuwadghule&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharayuwadghule&theme=tokyonight&hide_border=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=sharayuwadghule&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharayuwadghule&theme=tokyo-night&hide_border=true"/>
-</p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br>
 
@@ -112,32 +113,33 @@ whoami:
 
 <table>
 <tr>
-<td width="25%" valign="top">
-
-**🛠️ UtilX**
-Privacy-first utility platform, with a dedicated PDF toolkit at [docs.utilx.app](https://docs.utilx.app).
-
-</td>
-<td width="25%" valign="top">
-
-**📊 Rollup**
-The operating system for creator sponsorship revenue — Sponsor CRM, payment tracking & deal pipeline in one workspace.
-
-</td>
-<td width="25%" valign="top">
-
-**🚗 CampusRide**
-A student-focused ride-sharing platform making campus commutes smarter and safer.
-
-</td>
-<td width="25%" valign="top">
-
-**🤱 Project Janani**
-AI-powered healthcare platform aimed at improving maternal health outcomes.
-
-</td>
+<th align="left">Project</th>
+<th align="left">What it does</th>
+<th align="left">Link</th>
+</tr>
+<tr>
+<td>🛠️ <b>UtilX</b></td>
+<td>Privacy-first utility platform — now with a full PDF toolkit on its docs subdomain.</td>
+<td><a href="https://docs.utilx.app">docs.utilx.app</a></td>
+</tr>
+<tr>
+<td>📊 <b>Rollup</b></td>
+<td>The operating system for creator sponsorship revenue — Sponsor CRM, payments & deal pipeline in one workspace.</td>
+<td><code>rollup.app</code></td>
+</tr>
+<tr>
+<td>🚗 <b>CampusRide</b></td>
+<td>Student ride-sharing platform making campus commutes smarter and safer.</td>
+<td><code>in progress</code></td>
+</tr>
+<tr>
+<td>🤱 <b>Project Janani</b></td>
+<td>AI-powered healthcare platform built to improve maternal health outcomes.</td>
+<td><code>in progress</code></td>
 </tr>
 </table>
+
+> Each project started as a problem worth solving — and turned into a product worth building.
 
 <br>
 
