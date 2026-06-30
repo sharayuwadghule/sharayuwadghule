@@ -125,7 +125,7 @@ whoami:
 <tr>
 <td>📊 <b>Rollup</b></td>
 <td>The operating system for creator sponsorship revenue — Sponsor CRM, payments & deal pipeline in one workspace.</td>
-<td><code>rollup.app</code></td>
+<td><a href="https://rollup.utilx.app/">rollup.utilx.app</a></td>
 </tr>
 <tr>
 <td>🚗 <b>CampusRide</b></td>
