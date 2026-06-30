@@ -16,13 +16,12 @@
 
 ## 🧭 About Me
 
-```yaml
-sharayu.dev:
-  builds: full-stack apps, AI experiments, open source
-  currently: 💻 SWE Intern @ Prepgrind  🌐 Web Dev Intern @ MokaAgro
-  proudest_moment: 🏆 Winner, Aurora Hackathon 2026
-  motto: "Build. Learn. Contribute. Repeat."
-```
+I'm a Computer Engineering graduate with hands-on experience building full-stack web applications, exploring AI-driven solutions, and contributing to open-source projects. I enjoy taking products from idea to production — from designing clean architectures to shipping features that solve real problems.
+
+- 💻 Software Engineering Intern at **Prepgrind**
+- 🌐 Web Development Intern at **MokaAgro Science**
+- 🏆 Winner, **Aurora Hackathon 2026**
+- 📚 Currently deepening my knowledge of system design and cloud-native development
 
 <br>
 
@@ -71,14 +70,16 @@ sharayu.dev:
 ## 📊 GitHub Pulse
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharayuwadghule&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharayuwadghule&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharayuwadghule&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" height="140"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharayuwadghule&theme=tokyonight&hide_border=true" height="140"/>
 </p>
 
+<p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-<img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%"/>
 </picture>
+</p>
 
 <br>
 
